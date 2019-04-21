@@ -1,0 +1,22 @@
+.formControls {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    z-index: 15;
+    top: 30%;
+    left: 50%;
+    margin: -100px 0 0 -200px;
+}
+
+
+@media screen and (min-height:100px) and (max-height:500px) { 
+	.formControls {
+        position: absolute;
+        width: 400px;
+        height: 200px;
+        z-index: 15;
+        top: 50%;
+        left: 50%;
+        margin: -100px 0 0 -200px;
+    }
+}
