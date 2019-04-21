@@ -40,7 +40,7 @@ The following project is an assignment.
   * Confirm, Cancel Button
 10. **Add Event to Calendar:** Uses this package to add event to any calendar.
   * https://jasonsalzman.github.io/react-add-to-calendar/ , so in the case of google, he or she will be notified.
-11. **Edit User Profile:** User can edit hit/her profile.
+11. **Edit User Profile:** User can edit his/her profile.
 
 ### Pending Features
 1. **Post Meeting Popup:**  After the meeting date and time passed, both the users should be asked about “Was the meeting successful?”, and options would be “Yes” or “No”,
